@@ -34,7 +34,7 @@ const Sidebar = () => {
                     New Delhi, India
                 </div>
                 <div className="sidebar_item">abhinav1998dawar@gmail.com</div>
-                <div className="sidebar_item">9518045000 , 8708130480</div>
+                <div className="sidebar_item">9518045000</div>
             </div>
             <div className="sidebar_item sidebar_email" onClick={handleEmailMe}>Email Me</div>
         </div>
